@@ -1,4 +1,4 @@
-<img src="./.github/preview.png" alt="Preview do site"/>
+<img src="./preview.png" alt="Preview do site"/>
 
 ## Desafio avançado - Recriando layout 
  Nesse ultimo desafio do stage 2 foi recriado layout somente com figma da aplicação.
